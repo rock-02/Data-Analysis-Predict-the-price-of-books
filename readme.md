@@ -78,9 +78,6 @@ Visualize the data through plots, graphs, and charts:
 
 ![Picture4](https://github.com/rock-02/Data-Analysis-Predict-the-price-of-books/assets/98045645/b57dff45-9d5f-4f41-96ce-d4903fb56afc)
 
-
-Feature Selection
-
 Process of Selecting Relevant Features:          
 The process of selecting relevant features involves identifying the subset of features from the dataset that have the most significant impact on the target variable, which, in this case, is the book price. Here's an outline of the steps in the feature selection process:
 
